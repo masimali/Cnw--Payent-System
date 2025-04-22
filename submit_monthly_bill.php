@@ -29,9 +29,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
     <div class="container">
         <div class="header">
-
-
-        
             <h2>Contractor Portal - Submit Monthly Bill</h2>
         </div>
         <form method="POST" action="">
